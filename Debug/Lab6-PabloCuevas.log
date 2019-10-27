@@ -1,0 +1,10 @@
+﻿  Lista.cpp
+  MyForm.cpp
+  Generando código...
+C:\Users\Pablo\Desktop\Lab6-PabloCuevas\Lista.cpp(2,10) : warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Pablo\Desktop\Lab6-PabloCuevas\Orden.h(114)  : warning C4715: 'Orden::IsSortedGeneracion': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Pablo\Desktop\Lab6-PabloCuevas\Orden.h(149)  : warning C4715: 'Orden::IsSortedNumber': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Pablo\Desktop\Lab6-PabloCuevas\Orden.h(114)  : warning C4715: 'Orden::IsSortedGeneracion': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Pablo\Desktop\Lab6-PabloCuevas\Orden.h(149)  : warning C4715: 'Orden::IsSortedNumber': no todas las rutas de acceso de control devuelven un valor
+  Lista.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab6-PabloCuevas.vcxproj -> C:\Users\Pablo\Desktop\Lab6-PabloCuevas\Debug\Lab6-PabloCuevas.exe
